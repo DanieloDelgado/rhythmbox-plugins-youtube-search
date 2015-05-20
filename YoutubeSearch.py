@@ -98,7 +98,7 @@ class YoutubeSearch (GObject.Object, Peas.Activatable):
 			url = base_url + query_url
 			print(url)
 			page = urllib.request.urlopen(url).read()
-			url = 'https://www.youtube.com'+re.search('\/watch\?v=[\-a-zA-Z0-9]*',page.decode()).group(0)
+			url = 'https://www.youtube.com'+re.search('\/watch\?v=[\-_a-zA-Z0-9]*',page.decode()).group(0)
 			shell.props.shell_player.pause()
 		else:
 			query_url = urllib.parse.quote(metadata[query])
