@@ -3,9 +3,7 @@ YoutubeSearch
 Search videos for selected artist, album or track.
 
 
-To install the plugin, run install.py. If you have problems, try running 
-'install.py -l' in a terminal and select the version of Rhythmbox you have 
-installed.
+To install the plugin, run install.sh. Then close an open Rhythmbox
 
 
 Thanks to Donagh Horgan for his Wikipedia Search
