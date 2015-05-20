@@ -1,10 +1,9 @@
 [Plugin]
 Loader=python3
-Module=WikipediaSearch
+Module=YoutubeSearch
 IAge=2
-Depends=rb
-Name=Wikipedia search
-Description=Search for selected artist, album, track or genre at the click of a button.
-Authors=Donagh Horgan <donagh.horgan@gmail.com>
-Copyright=Copyright © 2012-2013 Donagh Horgan
-Website=http://www.donaghhorgan.com/projects/rhythmbox/
+Name=Youtube Search
+Description=Search the selected song in Youtube and open it on the default browser.
+Authors=Daniel O. Delgado <danielo.delgado@gmail.com>
+Copyright=Copyright © 2015 Daniel O. Delgado
+Website=https://github.com/DepartamentoDeHardware
