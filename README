@@ -1,45 +1,15 @@
-WikipediaSearch
+YoutubeSearch
 
-Search for selected artist, album, track or genre at the click of a button.
+Search videos for selected artist, album or track.
 
-
-=== Dependencies ===
-
-  * rhythmbox		    >= 	2.95
-  * python-lxml         (Rhythmbox 2.99 only)
-
-
-=== Usage ===
 
 To install the plugin, run install.py. If you have problems, try running 
 'install.py -l' in a terminal and select the version of Rhythmbox you have 
 installed.
 
 
-=== Thanks ===
+Thanks to Donagh Horgan for his Wikipedia Search
 
-Thanks to fossfreedom and asermax for the rb3compat module.
-
-Inspired by WebMenu by Andrea Franco.
-
-
-=== Contact ===
-
-Donagh Horgan
-E-mail: donagh.horgan@gmail.com
-Website: http://www.donaghhorgan.com/projects/rhythmbox/
-
-
-=== Copyright ===
-
-Copyright (C) 2012-2013 Donagh Horgan.
-
-Uses the rb3compat module by fossfreedom and asermax.
-Copyright (C) 2013 fossfreedom, Agustin Carrasco.
-
-
-=== License ===
+Copyright (C) 2015 Daniel O. Delgado
 
 Licensed under GPLv3, see LICENSE for more info.
-
-
